@@ -1,0 +1,13 @@
+.navbar {
+  background: black;
+}
+.jumbotron{
+  background-color: lightslategrey;
+  margin: 0px auto;
+  
+}
+
+.footer {
+  background: #000000;
+  color: aliceblue;
+}
